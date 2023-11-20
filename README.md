@@ -20,8 +20,9 @@
   <br>
   <br>
   <br>
-
+<p align=center>
  [![Linkedin Badge](https://img.shields.io/badge/-Abelardo_lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)  [![Gmail Badge](https://img.shields.io/badge/-lAbelardo477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labelardo477@gmail.com)](mailto:labelardo477@gmail.com) 
+</p>
   <br>
   <br>
   <br>
