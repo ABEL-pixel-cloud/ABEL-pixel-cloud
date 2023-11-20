@@ -11,14 +11,16 @@
  <h2 align=center>Tecnologías</h2>                                           
 <p align=center>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-<img 	src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white height="25">
-<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white height="25">
+<img 	src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
+<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
   <br>
   <br>
   <br>
  [![Linkedin Badge](https://img.shields.io/badge/-Abelardo-josé-Lopez-payares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a) 
+
+ <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
   <br>
   <br>
   <br>
