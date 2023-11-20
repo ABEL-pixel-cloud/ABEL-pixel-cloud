@@ -18,6 +18,9 @@
   <br>
   <br>
   <br>
+ [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a
+
+)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)
   <br>
   <br>
   <br>
