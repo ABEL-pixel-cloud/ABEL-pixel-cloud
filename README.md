@@ -23,8 +23,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-lAbelardo477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labelardo477@gmail.com)](mailto:labelardo477@gmail.com) 
 
 
+<div align=center>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABEL-pixel-cloud&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABEL-pixel-cloud&show_icons=true&theme=dark)
+</div>
 
 
 
