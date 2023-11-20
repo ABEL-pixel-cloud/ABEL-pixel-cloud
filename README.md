@@ -8,14 +8,14 @@
   <br>
   <br>
   <br>
-<p  align="center">
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-&nbsp;
+
 <img 	src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white height="25">
-&nbsp;
+
 <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white height="25">
-&nbsp;
-</p>
+
+
   <br>
   <br>
   <br>
