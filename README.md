@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
-<div>
+<div align=center>
    <a href="https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
