@@ -17,9 +17,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
-<div align=center>
-   <a href="https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-</div>
+  [![Linkedin Badge](https://img.shields.io/badge/-Abelardo_lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)  
 
   
 [![Gmail Badge](https://img.shields.io/badge/-lAbelardo477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labelardo477@gmail.com)](mailto:labelardo477@gmail.com) 
