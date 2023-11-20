@@ -10,3 +10,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABEL-pixel-cloud&show_icons=true&theme=dark)
+
+
+
+  <p align="center">
+  <img src="raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
