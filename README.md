@@ -36,6 +36,6 @@
   <br>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/ABEL-pixel-cloud/ABEL-pixel-cloud/edit/main/README.md/resources/img/grid-snake.svg"
+  <img  src="https://github.com/ABEL-pixel-cloud/ABEL-pixel-cloud/edit/main/README.md/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
