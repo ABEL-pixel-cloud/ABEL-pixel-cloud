@@ -1,9 +1,9 @@
 
-👋 ¡Saludos a la comunidad! Soy Abelardo lopez, ingeniero mecatrónico con un enfoque apasionado en el desarrollo backend. Mi trayectoria no solo se basa en la sólida formación en ingeniería mecatrónica, sino también en la creación de soluciones backend robustas y eficientes.
+👋 ¡Saludos a la comunidad! Soy Abelardo lopez, ingeniero mecatrónico con un enfoque apasionado en el Desarrollo Backend. Mi trayectoria no solo se basa en la sólida formación en Ingeniería Mecatrónica, sino también en la creación de soluciones Backend robustas y eficientes.
 
-💻 Con una base sólida en ingeniería, abordo los desafíos del desarrollo backend con un enfoque proactivo y creativo. Mi experiencia abarca tecnologías clave como java,mysql,Sprint boot, y estoy constantemente explorando nuevas herramientas para mejorar mis habilidades.
+💻 Con una base sólida en Ingeniería, abordo los desafíos del Desarrollo Backend con un enfoque proactivo y creativo. Mi experiencia abarca tecnologías clave como java,mysql,Spring boot, y estoy constantemente explorando nuevas herramientas para mejorar mis habilidades.
 
-🚀 Estoy aquí para colaborar en proyectos desafiantes y contribuir con mi experiencia en el diseño y la implementación de sistemas backend. Con un compromiso constante con el aprendizaje y la mejora, estoy listo para enfrentar cualquier desafío que se presente en este emocionante campo.
+🚀 Estoy aquí para colaborar en proyectos desafiantes y contribuir con mi experiencia en el diseño y la implementación de sistemas Backend. Con un compromiso constante con el aprendizaje y la mejora, estoy listo para enfrentar cualquier desafío que se presente en este emocionante campo.
 
   <br>
   <br>
