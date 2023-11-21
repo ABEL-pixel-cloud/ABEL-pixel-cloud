@@ -21,14 +21,14 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
- <h2 >Contactate conmigo</h2>   
- <img
+ <h2 >Contactate conmigo  
+
   [![Linkedin Badge](https://img.shields.io/badge/-Abelardo_lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a) 
 
   
 [![Gmail Badge](https://img.shields.io/badge/-lAbelardo477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labelardo477@gmail.com)](mailto:labelardo477@gmail.com) 
->
 
+</h2> 
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABEL-pixel-cloud&show_icons=true&theme=dark)
