@@ -34,6 +34,8 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABEL-pixel-cloud&show_icons=true&theme=dark)
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 
 
