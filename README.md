@@ -31,11 +31,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABEL-pixel-cloud&show_icons=true&theme=dark)
 
 
-  <br>
-  <br>
-  <br>
-<div align="center">
-  <img  src="grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
