@@ -21,14 +21,17 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
- <h2 align=center >Contactate conmigo  
+ <h2 align=center >Contactate conmigo  </h2> 
+ <di align=center>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Abelardo_lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a) 
+[![Linkedin Badge](https://img.shields.io/badge/-Abelardo_lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a)](https://www.linkedin.com/in/abelardo-josé-lopez-payares-a0315429a) 
 
   
 [![Gmail Badge](https://img.shields.io/badge/-lAbelardo477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labelardo477@gmail.com)](mailto:labelardo477@gmail.com) 
+ </di>
 
-</h2> 
+
+
 
 <div  align=center>
 
