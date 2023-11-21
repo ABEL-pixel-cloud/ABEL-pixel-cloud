@@ -31,7 +31,7 @@
  </div>
 
 
-
+ <h2 align=center>Estadísticas</h2>  
 
 <div  align=center>
 
