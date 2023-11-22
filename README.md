@@ -1,9 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)]([https://arjuncvinod.github.io](https://github.com/ABEL-pixel-cloud/ABEL-pixel-cloud/edit/main/README.md))
 <h1 align=center > Acerca de mi </h1>
 <p>
-  👋 ¡Saludos a la comunidad! Soy Abelardo lopez, ingeniero mecatrónico con un enfoque apasionado en el Desarrollo Backend. Mi trayectoria no solo se basa en la sólida formación en Ingeniería Mecatrónica, sino también en la creación de soluciones Backend robustas y eficientes.
+  👋 ¡Saludos a la comunidad! Soy Abelardo lopez, Ingeniero Mecatrónico con un enfoque apasionado en el Desarrollo Backend. Mi trayectoria no solo se basa en la sólida formación en Ingeniería Mecatrónica, sino también en la creación de soluciones Backend robustas y eficientes.
 
-💻 Con una base sólida en Ingeniería, abordo los desafíos del Desarrollo Backend con un enfoque proactivo y creativo. Mi experiencia abarca tecnologías clave como java,mysql,Spring boot, y estoy constantemente explorando nuevas herramientas para mejorar mis habilidades.
+💻 Con una base sólida en Ingeniería, abordo los desafíos del Desarrollo Backend con un enfoque proactivo y creativo. Mi experiencia abarca tecnologías clave como Java,Mysql,Spring boot, y estoy constantemente explorando nuevas herramientas para mejorar mis habilidades.
 
 🚀 Estoy aquí para colaborar en proyectos desafiantes y contribuir con mi experiencia en el diseño y la implementación de sistemas Backend. Con un compromiso constante con el aprendizaje y la mejora, estoy listo para enfrentar cualquier desafío que se presente en este emocionante campo.
 </p>
